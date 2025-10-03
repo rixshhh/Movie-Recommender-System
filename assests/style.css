@@ -1,0 +1,17 @@
+/* assets/style.css */
+body {
+    background-color: #0E1117;
+    color: white;
+}
+
+.stButton button {
+    background-color: #FF4B4B;
+    color: white;
+    border-radius: 10px;
+    font-size: 16px;
+    padding: 8px 16px;
+}
+
+.stSelectbox, .stTextInput {
+    border-radius: 10px;
+}
